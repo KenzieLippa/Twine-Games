@@ -1,0 +1,432 @@
+:: StoryTitle
+Murder Mystery
+
+
+:: StoryData
+{
+  "ifid": "32FABFBE-CF15-4202-A08B-BEDA6183F5D0",
+  "format": "Harlowe",
+  "format-version": "3.3.7",
+  "start": "You are the detective",
+  "zoom": 0.6
+}
+
+
+:: Arrest her {"position":"1789,1772","size":"100,100"}
+(if:(history: where its name contains "Guess Who Did it")'s length is 1)[Congrats on getting it right on your first try!]
+You arrest Velma for being evil and make the papers!
+Your mission was a success and you found the killer, maybe now more people will come use your services!
+
+
+:: Ask about the safe code {"position":"1530.3333333333333,1160","size":"100,100"}
+"Do you know what the safe code is?"
+"No, please don't ask me. I don't care about these things... he's dumb anyway."
+"You didn't scream that time..."
+"WHAT???"
+"Fair enough" you say
+(set: $knowCode = "true")
+[[Talk to Velma<-Continue talking to Velma]] 
+
+
+:: BDQ1 {"position":"1433,388","size":"100,100"}
+"I was here. don't let it concern you too much."
+[But I have a witness who saw you!]<cl1|
+
+(click-replace: ?cl1)["I dont care if santa clause himself said he saw me. I wasn't doing nothing. Now please get out of here."]
+[[BDQ2<- How did you know Fred?]] 
+[[Bank<-stop talking to the scary man]] 
+
+
+:: BDQ2 {"position":"1836,341","size":"100,100"}
+"Fred works here, he puts all the stuff in the books and makes sure we've been up to date on our rent. Really nothing more."
+[[BDQ1<-Where were you last night]] 
+[[Bank<- Stop talking to scary man]] 
+
+
+:: BDQ3 {"position":"1978,1135","size":"100,100"}
+"Fine, I was there, I talked to Fred, he was going to tell people and I told him that he couldn't. I left after that though I swear. I was gone, I came straight back here. Honest."
+[[Bank<-stop talking to the scary man.]]
+
+
+:: Bank {"position":"1148,366","size":"100,100"}
+There is a big golden looking building in front of you. A boxy man is inside yelling at the receptionist.
+[[Observe Bank]]
+[[Talk to big scary dude]]
+[[Hub<-Back to town center]] 
+
+
+:: Fine I'll go back {"position":"2218,192","size":"100,100"}
+Thank goodness you have come to your senses!
+that letter still sits on your desk...
+[[read it]]
+[[nope]]
+
+
+:: Flutes {"position":"1018,978","size":"100,100"}
+Something seems strangely ominious about these flutes. "Is there anywhere else that there could be flutes? you ask.
+"yeah there might be some in the display case in the library, you would need a key to open the bottom though."
+"why would I need to open the bottom?" you ask again
+"I don't know, there might be something in there. Here, I'll give you the key just in case."
+"is this the only key?"
+"no, theres another one in the library desk."
+(set: $key to "open") 
+[[Observe Music Hall<- snoop somemore]] 
+[[Music Hall<- stop snooping]] 
+
+
+:: Fraud? {"position":"701,1314","size":"100,100"}
+"What do you mean fraud?"
+"Well it seems that the bank that Fred was working in seemed to be dealing in some mighty shady things"
+[When did you leave?]<cl1|
+(click-replace: ?cl1)["Well I left around the time that big man came into the library. He looked mighty scary and I didn't wanna get messed up in that. you might wanna talk to him instead. He might know something."]
+[[Music Hall<-Back to the music Hall]] 
+
+
+:: Guess Who Did it {"position":"1347,1430","size":"100,100"}
+[[Wrong2<-Jerimiah]]
+[[Wrong<-Timothy]]
+[[Wrong1<-Scary Man]]
+[[Right<- Velma]]
+
+
+:: Hub {"position":"764,522","size":"100,100"}
+From here you can go anywhere to investigate the crime, where do you go?
+[[Library]] 
+[[Janitors Closet]]
+[[Music Hall]]
+[[Bank]]
+
+(if: visits >= 10)[[Guess Who Did it]]
+
+
+:: Investigate the books? {"position":"1422,1051","size":"100,100"}
+Theres a row of black books. You take one off the shelf and read whats inside.
+//help, I'm being chased, these are the books of the local bank, please do not read this unless you are one of the members. Please, if they find out I put these here they'll kill me!//
+You look at some of the pages, a bunch of cooked numbers are in columns. It looks like the bank is embezzeling millions of dollars.
+[[Observe Library<-Continue Snooping]] 
+
+
+:: JanitorAnswer1 {"position":"0,1217","size":"100,100"}
+"I didn't really know him at all, I haven't even seen him in here before. Very strange if you ask me"
+[[JanitorAnswer2<-Where were you last night]] 
+[[Janitors Closet<-Stop talking to Tim]] 
+
+
+:: JanitorAnswer2 {"position":"325,1270","size":"100,100"}
+"What do you mean what was I doing, I was cleaning of course, what a stupid question!"
+you think for a moment before responding. "Did you see anyone?"
+"Of course I saw someone, I was cleaning the shelves of the library when I stumbled upon the poor soul, very frightening for a man of my age you see. I screamed out, was shushed by the librarian and called the cops"
+[[JanitorAnswer1<-How did you know Fred]] 
+[[Janitors Closet<-Stop talking to Tim]] 
+
+
+:: Janitors Closet {"position":"292,531","size":"100,100"}
+You are in a dark and dingy closet.
+[[talk to Timothy]]
+[[Observe Closet]]
+[[Hub<-back to Town Center]]
+
+
+:: JerimiaAnswer1 {"position":"951,1171","size":"100,100"}
+"We grew up together, when I started preforming in the hall in town, he would come and watch me play sometimes.
+I can't believe he's gone.
+[[JerimiaAnswer2<-Where were you last night?]] 
+[[Music Hall<-Stop talking to him]] 
+
+
+:: JerimiaAnswer2 {"position":"418,1095","size":"100,100"}
+"I actually saw him last night to tell you the truth. It was my final preformance for the week and he came to cheer me on. We talked for a while after the show, but that mostly it."
+[Did you go anywhere after that?]<c1|
+(click-replace: ?c1)["Yeah actually, its suspicious to say but we went back to the library. He had mentioned something about fraud and books and I came with him for moral support." [[Fraud?]]]
+
+[[JerimiaAnswer1<-How did you know Fred?]] 
+
+
+:: Library {"position":"1152,684","size":"100,100"}
+"MAKE SURE YOU'RE QUIET YOU FOOL!" someone screams at you as you step foot in the library. You rub your eardrums from the pain.
+"Ok I will be... DAMN"
+"SHHHHHHHHHHHHH"
+[[Observe Library]]
+[[Look at the scene of the crime]]
+[[Talk to Velma]]
+[[Hub<- Back to town center]] 
+
+
+:: Look Closer at the keys {"position":"544,302.66666666666663","size":"100,100"}
+You look closer at the keys, some of them look mighty suspicious and could be useful for unlocking something. The janitor seems to be giving you the stink eye though...
+[[Take the Key]] 
+[[Observe Closet<-Better leave it for now, he might get mad...]] 
+
+
+:: Look at the scene of the crime {"position":"1452,874","size":"100,100"}
+Theres still some blood on the shelves but it looks like crime scene investigators have cleaned most of it up at this point.
+Someone did a bad job getting everything though because they left a case report on the shelf.
+[Read case report]<cl1|
+[look at blood stain on carpet]<cl2|
+[look at small piece of paper on the floor]<cl3|
+(click-replace: ?cl1)[Victim: Fred Fleasles. 
+Occupation: Accountant for local bank
+Case info: was killed in the library by blunt force trauma, had a portion of his skull sticking up in the middle of the gash.]
+(click-replace: ?cl2)[The blood stain is dried now but it reflects getting hit in the back of the head with a narrow pipe of some sort]
+(click-replace: ?cl3)[The paper was not a note, just some persons phone number. You toss it away(if: $number is "can retrieve")[//...wait! I need that, here I'll grab it for the janitor before someone else takes it.//(set: $haveNumber = "true")]]
+[[Library<-Go back to the front desk]] 
+
+
+:: Music Hall {"position":"693,766","size":"100,100"}
+Its a long hall with instraments at the beginning and a stage at the back.
+[[Talk to Jerimiah]]
+[[Observe Music Hall]]
+[[Hub<-Back to town center]]
+
+
+:: Observe Bank {"position":"1309,496","size":"100,100"}
+[There is a valut]<cl1|
+
+[There is a safe]<cl2|
+
+[There is a scared receptionist]<cl3|
+
+[There is a black case]<cl4|
+
+(click-replace: ?cl1)[The vault is huge and ominous. You can't go in there. You would need someone to let you in and I don't think anyone would want to right now.]
+(click-replace: ?cl2)[The safe is locked. You don't know the code but maybe someone else does?(set: $askCode = "can")(if: $knowCode is "true")[ You did talk to that strange librarian. She didn't give you the code but she did tell you that the bank man was dumb so maybe...you type in 1,2,3,4 and the safe chips open [[look inside safe]]]]
+
+(click-replace: ?cl3)["Oh who are you?"
+"I am a detective, have you seen anything weird recently?"
+"you mean beside the crazy influx of metal cases, not really."]
+(click-replace: ?cl4)[Dont open the case.[[Open anyway]]]
+
+[[Bank<-Stop snooping]] 
+
+
+:: Observe Closet {"position":"514,675","size":"100,100"}
+[There is a mop]<cl1|
+
+[a bucket]<cl2|
+
+[the keys to the library]<cl3|
+
+[sheets of music]<cl4|
+(click-replace: ?cl1)[It looks like its been used recently, I wonder if someones been cleaning around here...]
+(click-replace:?cl2)[there is something red of the lip of the bucket]
+(click-replace:?cl3)[Probably used to open the library like an ordanary key would.[[Look Closer at the keys]]]
+(click-replace:?cl4)[Looks like a piece of music traditionally played with a flute]
+[[Janitors Closet<-Stop snooping]] 
+[[Hub<-Back to the town center]]
+
+
+:: Observe Library {"position":"1189,885","size":"100,100"}
+[Theres a display case with instraments in it.]<cl1|
+
+[a bookshelve]<cl2|
+
+[table in the center]<cl3|
+
+[library desk]<cl4|
+(click-replace: ?cl1)[The flutes in the case are all there, nothing looks missing, there is a locked section at the bottom of the case. [[lockedSection<-Take a closer look]]]
+(click-replace: ?cl2)[The book shelf has a row of black books on it, [[Investigate the books?]]]
+(click-replace: ?cl3)[The table has some drinks on it and some cleaning spray. Nothing too notable]
+(click-replace: ?cl4)["DONT TOUCH MY DESK YOU CRAZY SLAG!" You get smacked with a ruler by the crazy librarian]
+[[Library<-Stop snooping]] 
+
+
+:: Observe Music Hall {"position":"941,778","size":"100,100"}
+[A music stand]<cl1|
+
+[moldy sandwhich]<cl2|
+
+[other instraments]<cl3|
+
+(click-replace: ?cl1)[the music stand is metal and mostly un-remarkable. "Well I used that at my show last night, you can see some of my notes in pencil" Jerimiah says.]
+(click-replace: ?cl2)[the sandwhich looks disgusting. "Whose is this?" you ask.
+"Musta been the janitors, I don't eat balogne" Jerimiah says.]
+(click-replace: ?cl3)[The other instraments look boring and un-interesting, I am pretty sure none of them are remarkable... Well except for the [[Flutes]]]
+[[Music Hall<-Stop snooping]]
+[[Hub<-Back to the town square]] 
+
+
+:: Open anyway {"position":"1863,459","size":"100,100"}
+You tried opening the case but its super locked.
+do you have another [key?]<cl1|
+(if: $key2 is "obtained")[you can actually open this [[suspicious black case]]]
+[[Observe Bank<-Continue snooping]] 
+
+
+:: Open the case? {"position":"1094,1262","size":"100,100"}
+Inside there is an expensive looking flute case but no flute.
+The inscription says <tw-passage style = "font-color: pink">"To my dearest Love who has always been so good at keeping the area outside the music hall quiet"</tw-passage>
+interesting...
+[[Observe Library<-back to snooping elsewhere]] 
+
+
+:: Right {"position":"1639,1618","size":"100,100"}
+"Thats right, I did it. I like people to be quiet and he WOULDNT SHUT UP!
+Plus Sylvestor needed me to. He always told me I was the best at keeping people silent"
+[[Arrest her]]
+
+
+:: SecretQ {"position":"1906,694","size":"100,100"}
+"HOWD YOU KNOW ABOUT THAT???"
+"um I just looked and umm..."
+"DID SHE TELL YOU ABOUT THE CODE?????"
+"you mean the librarian? I mean I guess so..."
+"SHE IS THE WORST!!!"
+[How would she know the code anyway?]<cl1|
+(click-replace: ?cl1)["Well I shouldn't be telling you this but we're actually going to get married at somepoint maybe... She's very helpful at keeping people quiet..."]
+
+[[BDQ3<-So I'll ask again, Where were you last night?]]
+
+
+:: Take the Key {"position":"760,170","size":"100,100"}
+"DONT YOU TAKE MY KEYS YOU SCRUB!"
+"But it looks suspicious!" You reply
+"Fine, I'll give it to you if you can get me a phone number of a pretty lady."
+I guess you have to find a phone number now...
+
+(set: $number = "can retrieve")
+(if: $haveNumber is "true")["Here it is, can I take the key now?
+"are you sure that its a real number and not like some old burly guys number?"
+"oh yeah, positive..." you cross your fingers behind your back. 
+(set: $key2 = "obtained")]
+[[Observe Closet<-Continue snooping]] 
+
+
+:: Talk to Jerimiah {"position":"496,876","size":"100,100"}
+"Well hello there, bit of a dreary day wouldn't you agree? The name's Jerimiah! What can I help you with?"
+[[JerimiaAnswer1<-How do you know Fred?]]
+[[JerimiaAnswer2<-Where were you last night?]]
+
+
+:: Talk to Velma {"position":"1642,843","size":"100,100"}
+BE QUIET!!!
+She seems shriveled and impatient
+[[VelmaQuestion1<-Where were you last night]]
+[[VelmaQuestion2<-How did you know Fred?]]
+(if: $askCode is "can")[[Ask about the safe code]]
+[[Library<- Stop talking to the crazy lady]] 
+
+
+
+:: Talk to big scary dude {"position":"1549,208","size":"100,100"}
+The big man gives you the stink eye.
+[[BDQ1<-Where were you last night?]]
+[[BDQ2<-How did you know Fred?]]
+(if: $knowNote is "true")[[SecretQ<-Do you know anything about the note in the safe?]]
+
+
+:: VelmaQuestion1 {"position":"1783,1028.3333333333333","size":"100,100"}
+"NONE OF YOUR BUISNESS YOU IDIOT SO BE QUIET!"
+"Why are you yelling if you want me to be quiet?" you ask her curiously.
+"WHAT??"
+"are you deaf?"
+"THATS REALLY OFFENSIVE, IM NOT DEAF AT ALL, NO FUCKING TALKING!!!"
+[[VelmaQuestion2<-How did you know Fred?]] 
+[[Library<- ABANDON SHIP!]] 
+
+
+:: VelmaQuestion2 {"position":"2284,943","size":"100,100"}
+"I NEVER DID REALLY..."
+"How come?"
+"WELL I DON'T KNOW MANY PEOPLE AT ALL REALLY"
+"I find that hard to believe..."
+"I DONT REALLY CARE."
+[[VelmaQuestion1<-Where were you last night?]]
+[[Library<-Stop talking to Velma]] 
+
+
+:: Wrong {"position":"1132,1608","size":"100,100"}
+"How could it be me? I was sleeping on the bucket in the closet. I even coughed on it!"
+//so thats what that red stain was...//
+[[Guess Who Did it<-Guess again]] 
+
+
+:: Wrong1 {"position":"1320,1759","size":"100,100"}
+"ILL KILL YOU BEFORE I KILLED FRED, HOWS THAT!!!" He smacks you in the face with his big meat hands and actually does kill you.
+As you die you think that as merciless as this man is, maybe he didnt kill fred. 
+
+
+
+
+Your eyes open again. Good news, you were over-reacting and you're fine. He's gone now though. 
+[[Guess Who Did it<-Guess again]] 
+
+
+:: Wrong2 {"position":"1511,1683","size":"100,100"}
+[Silence]<cl1|
+(click-replace: ?cl1)[(//Even More Silence//)]<cl2|
+"I can't believe you would think it was me... I was so sweet to Fred, I would never hurt him."
+[[Guess Who Did it<-Guess again]] 
+
+
+:: You are the detective {"position":"1211,35","size":"100,100"}
+(set: $yourName to(prompt: "What is your name?", "" ))
+Hello $yourName,
+You walk into your office that morning, its cold outside. The wind whips at your face like it has a grudge. 
+It smells weird in your office like someone left the radiator running and the egg sandwhich you left on your desk has melted into the room.
+on your desk theres a note.
+[[read it]]
+[[go home]]
+
+(set: $key to "close")
+(set: $askCode to "no")
+(set: $key2 to "none")
+
+
+
+:: go home {"position":"1783,45","size":"100,100"}
+Dont go home you lazy bum, you should read the letter. 
+Dont you have to work to earn money?
+[[nope]]
+[[Fine I'll go back]]
+
+
+:: lockedSection {"position":"1315,1229","size":"100,100"}
+You take a closer look at the music case. theres a spot for a key to go.
+(if: $key is "open")[[Open the case?]]
+(if: $key is "close")[There is no key in your inventory, the case will not open. [[Observe Library<-Go Back]]]
+
+
+:: look inside safe {"position":"2286.6666666666665,473","size":"100,100"}
+in the safe there is another black box. There is also another note.
+//make sure any whistleblowers are silent. We don't want them knowing about what we're doing here. It's for the greater good I promise.//
+(set: $knowNote = "true")
+[[Observe Bank<- go back to snooping]] 
+[[Talk to big scary dude]] 
+
+
+:: nope {"position":"1900,207","size":"100,100"}
+Fine, then I have nothing left for you.
+You live a boring and poor life and nothing happens that is positive.
+
+
+:: read it {"position":"903,245","size":"100,100"}
+<em>Dearest Detective, if this letter finds you in great health than I'm affraid I must ask for your help. My dearest son has been murdered! He was off to the library one noon and he never returned. Next I know the body was found by some random person named Timothy! I had never heard that name before! Please help me find my sons killer, it would mean the world to me. 
+Thank you dearly,
+Mama Fleasles.</em>
+
+
+Hmm what could this be... You think to yourself slowely.
+Seems this man was killed in the library, you could go there now from the town center.
+[[Hub<-Town Center]]
+
+
+:: suspicious black case {"position":"2160,671","size":"100,100"}
+Theres a flute in the case but the flute is really heavy.
+[Inspect the flute closely]<cl1|
+(click-replace: ?cl1)[theres a note in the box that says "My love, I miss you so much, heres a present for your growing hobby." //hmm, have I seen this before?//
+Inside the flute you catch a glimps of something green.
+you pull on it and money comes out.
+thats quite strange.]
+[[Observe Bank<-go back to snooping]] 
+
+
+:: talk to Timothy {"position":"131,872","size":"100,100"}
+"Hello?" you ask the janitor, hes sitting on a chair behind the desk.
+"Whats up? Why are you snooping around my closet?"
+[[JanitorAnswer1<-How did you know Fred]]
+[[JanitorAnswer2<-Where were you last night]]
+
+
+:: StoryStylesheet [stylesheet]
+tw-passage{ font-family: Consolas, monaco, monospace; font-size: 24px; font-style: normal; font-variant: normal; font-weight: 500; line-height: 26.4px; 
+} 

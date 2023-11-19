@@ -1,0 +1,1502 @@
+:: StoryTitle
+How you die
+
+
+:: StoryData
+{
+  "ifid": "B3ACBA7C-4A33-42A9-82AF-89D6B3B490FB",
+  "format": "Harlowe",
+  "format-version": "3.3.7",
+  "start": "The start up",
+  "zoom": 0.25
+}
+
+
+:: ...huh? {"position":"1475,4203","size":"100,100"}
+you wake up in a cold and deserted basement. a single light shines over you, the basement is cold and damp. 
+a scrapping sound comes in the distance. "oh poor fool, don't you know not to run from a viper?"
+she cackles and you shiver. 
+[[why is it so cold in here]]
+[[let her continue]]
+
+
+:: DONT DO IT {"position":"1400,4053","size":"100,100"}
+you smash the plate away. "IM NOT EATING THIS!!!" you yell at her
+"I'll just leave."
+she stands in front of the door and growls at you
+"no you won't, you will eat!" she reveals a knife in her hand. She charges at you and leaps for your head.
+she lunges and stabs you in the eye. you can now only see out of one eye as she wacks you across the head.
+[[...huh?]]
+
+
+:: I guess ill take the crazy lady? {"position":"2650,2858","size":"100,100"}
+Excellent desicion!!!
+She wants to know if you want sushi or burritos.
+she calls street filth after looking at your profile pictures but says shes still willing to give you a shot.
+[[go on a date with the lady]]
+
+
+:: I wasn't looking at them like anything {"position":"514,443","size":"100,100"}
+"please" you plead with them, "I wasn't trying to make you jealous, I just thought I recognized them"
+the person next to you glares at you.
+"Ok fine, you recognized them. lets just drop it, i'm tired and want to go home."
+[[me to]]
+
+
+:: I'd love to eat with you {"position":"641,3235","size":"100,100"}
+"Really?" her eyes light up and she tries to stand up but then realizes that her ass is broken. 
+the ambulance arrives moments later, you go with her to the hospital.
+you sit in the waiting room until a few hours later she comes out in a wheel chair.
+"So my human, where would you like to go to eat?"
+[[sushi]]
+[[burritos]]
+
+
+:: I'll take the job {"position":"1552,4850","size":"100,100"}
+you begrudgingly accept the job position, hey maybe it won't be so bad.
+she smiles at you. "Good choice." she cuts the zipties from your wrist and you grasp your hands together.
+[[try to kill her]]
+[[follow her upstairs]]
+
+
+:: I'm leaving {"position":"1355,4473","size":"100,100"}
+"Oh really??? you're leaving me? well look, heres the food. You should at least wait until you're done eating to leave."
+[[do not eat it]]
+[[eat it]]
+
+
+:: I'm out of here {"position":"770,4027","size":"100,100"}
+you throw a napkin on the table and storm out. she calls out "good ridance" behind you.
+[[stay on the street]] 
+[[go home]]
+
+
+:: JESUS SHUT UP {"position":"2224,3252","size":"100,100"}
+you smack the table and scream at him to be quiet. He looks embaressed and neatly folds his pocket square again. "I'm so sorry, im new at this..."
+you roll your eyes at him.
+[[stay at the table]]
+[[go home]]
+
+
+:: NO! I'm ordering {"position":"845,3877","size":"100,100"}
+"Stop it. I'm ordering, let me see the menu."
+"But how would you ever know what you would even like????" she asks, alarmed.
+"My god you are so assumptive! You think just because im on the street doing drugs that I'm some un-cultured hobo???"
+"well yes of course, what else would you be?"
+"Oh my god.... I used to be a person, a person with dreams and a life and goals! now look at me.... I'm in a diner with the worlds most annoying woman ever being BOSSED around like I know nothing. 
+[[I'm out of here]]
+[[change your mind]]
+
+
+:: NOOOOOOOOOOOOOOOO {"position":"432,4028","size":"100,100"}
+you scream out in pain and jab your cutting utensil deep into your eye socket.
+you are thankful for the release of questioning
+[[death]]
+
+
+:: TAKE NO PRISONERS!! {"position":"1639,1879","size":"100,100"}
+you aren't about to surrender like a SISSY!!!
+you round up all the dissenters and peace askers and launch them across the ocean back into europe. 
+you hoist a new flag up the pole and scream "GLORY TO RACOONS!!!!"
+they chear along with you.
+you continue to rule with an iron fist, executing any of those who oppose you.
+one day a racoon dresses up like you and sits in your chair. he points to you and says "OFF WITH THEIR HEAD!!!" 
+because that's something you absolutly would say, they believe its you sitting in the chair and bring the real you to the gallows.
+your head is unncermoniously lobbed off and thrown into the pile.
+[[death]]
+
+
+:: The start up {"position":"620,294","size":"100,100"}
+rain patters outside your car door as you look impatientlly at the rough unfinished road up ahead.
+"We should have stayed at home" the person next to you says. Your daughter in the back seat gaggles and sticks her tounge out at you.
+"Maybe if we'd stayed back then you wouldnt have looked at them like that."
+the person next to you glares at you.
+[[I wasn't looking at them like anything]]
+[[yeah, what of it?]]
+
+
+:: and more years {"position":"2029,1788","size":"100,100"}
+the same thing every single day
+over and over again. 
+you go in, you go home in perfect harmony.
+when you get home you drink yourself to sleep.
+[[keep working]]
+[[go home]]
+
+
+:: and the other passengers? {"position":"505,1472","size":"100,100"}
+"oh yeah, no, they died. truly tragic, hope your last words were positive."
+"ANnnnny way, not a scratch on you though, you lucky bastard. You'll be out of here in no time at all."
+[[ok]]
+
+
+:: and years {"position":"1961,1637","size":"100,100"}
+[[and more years]]
+
+
+:: ask for money {"position":"443,2286","size":"100,100"}
+"Oh darling, I don't give money to the deplorable."
+she smacks you lightly on the head
+"oh but if you do decide to turn your life aroun, do let me know. I'm in the buisness of helping people who help themselves"
+[[steal from lady]]
+[[go home]]
+
+
+:: be a human {"position":"2104,2357","size":"100,100"}
+you decide to try being a human.
+it is a very daunting task but you can do it. Only problem, what is there to do? 
+[[work at an office]] 
+[[go on a date]]
+
+
+:: burritos {"position":"1211,3477","size":"100,100"}
+you go to the burrito restraunt and look at the menu.
+"what low class ass likes burritos..." you can hear the woman muttering.
+you order your food and go to the restroom.
+when you come back, the food is on the table.
+[[eat the burrito]]
+
+
+:: but we just met {"position":"823,3727","size":"100,100"}
+"Yes darling but I feel I've known you all my life."
+"how can that be possible when literally earlier today you were talking about how I was street filth." you ask, annoyed.
+"Well yes but that was earlier, now I've had time to get to know you. I know what you'll like, trust me."
+[[of course, you know best]]
+[[NO! I'm ordering]]
+
+
+:: buy drugs {"position":"1759,2057","size":"100,100"}
+You buy the drugs, being sober was over-rated.
+[[do another shot]]
+
+
+:: call 9-1-1 {"position":"558,2972","size":"100,100"}
+you begrudgingly pick up the phone and call the hospital.
+"yeah I think this lady broke her ass bone" you say into the reciever. The woman on the other end agrees to send you an ambulance for the woman with the broken ass.
+"Oh please, will you stay with me till they arrive?"
+[[no, im leaving]]
+[[yea I'll stay]]
+
+
+:: change the world {"position":"1713,1729","size":"100,100"}
+you don't act irationally. It sucks that theyre gone but you've dealt with it before. you just sew the seeds of doubt.
+in a press confrence you explain. 
+[[hear the speech]]
+unfortunately there are many people who don't agree with your new found idealism as they don't want to lose their easy money. 
+they kidnap you and tie you to a chair.
+they torture you until you renounce all your idealology 
+then they kill you and dump you in a lake.
+so much for peace...
+[[death]]
+
+
+:: change your life {"position":"1308,1449","size":"100,100"}
+Oh thank god you've finally decided to change your life for the better. I hope you're excited. 
+[[get a job]]
+[[go to rehab]]
+[[king of the racoons]]
+
+
+:: change your mind {"position":"920,4027","size":"100,100"}
+"I'm sorry, I don't know what came over me. I take it back, I'm sorry. Please don't be mad. It's been a while since I've talked to other people like this. 
+[[of course, you know best]]
+
+
+:: clean your house {"position":"2029,2207","size":"100,100"}
+you go home and clean up your house. 
+you throw away all needles and pills
+you throw away all alcohol. 
+you miss your daughter, you see an old photo of her while you're cleaning.
+finally your house is empty, nothing is left but you.
+[[cry]]
+[[be a human]]
+
+
+:: come on {"position":"1954,3557","size":"100,100"}
+FINE
+the hot and sexy fireman shows up but the conversation is boring and stupid because he has no brain.
+he asks you afterwards if you want to smoke pot with him at his house and you say no.
+[[give me a choice]]
+[[ok ill say no]]
+
+
+:: continue to date her {"position":"2650,3309","size":"100,100"}
+she continues to abuse you though she occasionally shows you some affection.
+you look at another girl in the restraunt and she freaks out so much she strangles you in the parking lot.
+[[death]]
+
+
+:: continue to ignore the gods {"position":"433,3429","size":"100,100"}
+The gods scream and lash out at you, they cut your throat from the inside, they melt your bones with acid. you scream out as you become a rotten pile of mush on the floor by your bedside.
+//no man that defies us gets to live to tell about it//
+[[good thing im a woman!]]
+[[oh god please don't murder me!]]
+
+
+:: cry {"position":"1954,2357","size":"100,100"}
+you decide you want to cry instead. Your life is a mess, getting clean or working hasn't helped, you don't want to worry anymore about how lonely you are.
+[[do another shot]]
+[[scream at god]]
+[[buy drugs]] 
+
+
+:: death {"position":"677,4440","size":"100,100"}
+Terrible news, you have reached the hub of the underworld.
+you have recieved an end to your terrible day, do you want to go back to the beginning?
+[[The start up]]
+perhaps you want to go to after you leave the hospital
+[[ok]]
+maybe you want to 
+[[change your life]]
+if you don't want to chnage your life, maybe
+[[stay a drug addict]] 
+(if:(history: where it is "spit at her")'s length is 1)[maybe you want to go back on the street and treat the woman differently? [[spit at her]]]
+
+(if:visits is 2)[are you sick of dying yet? if not then I got a feeling you will be soon.]
+(if:visits is 5)[Have you figured out what's happening yet?]
+(if:visits is 10)[Let me spell it out for you, you never woke up in that hospital bed...]
+(if:visits is 11)[you never did drugs or lived on the streets or met a woman like that.]
+(if:visits is 12)[you never learned to change your life or live better]
+(if:visits is 13)[you're just stuck in a never ending loop living out all possible alternative endings until the end of time. You can never escape and you will never stop dying.]
+(if:visits is 14)[everyone else is stuck here too.](if:(history: where it is "change the world")'s length is 1)[it seems you see many racoons here with you, its possible after your death all your dissenters murdered your following of educated trash pandas. the poor racoons shuffle aimlessly about the hub.]
+
+
+:: did I sell a ring? {"position":"144,2071","size":"100,100"}
+"nope, I don't remeber no ring in here."
+"isnt it that right there?" you point to a ring on the table
+"nope not yours."
+"yes it is, it has their name engraved on it."
+"scram bitch or I'll call the mrs."
+[[whats the misses gonna do?]]
+[[leave]]
+
+
+:: didn't I already do this? {"position":"608,2421","size":"100,100"}
+"Oh of course not darling, I have no IDEA what you're talking about. Now what are you going to do." she smiles wryly at you.
+something weird is going on, you can feel it. You've seen her before, you know you have. you remeber that you(if:(history: where it is "steal from the lady")'s length is 1)[stole from her before]
+(if:(history: where it is "stab her")'s length is 1)[You could have sworn you stabbed her too, is she still alive? was it all just a bad dream??]
+[[steal from the lady]]
+[[go home]]
+
+
+:: do another shot {"position":"427,1912","size":"100,100"}
+you pick up the needle and sigh. //might as well do another shot... what else am I going to do//
+you put down the needle and get out the pretty little pill. you crush it into dust and then put it in the spoon.
+you would miss this ritual if you lost it...
+[[change your life]]
+[[shut up and do the shot]]
+
+
+:: do it {"position":"1552,5150","size":"100,100"}
+turns out her eagerness to bed you comes from her propensity to watch and experience snuff films.
+you have made a grave error
+[[death]]
+
+
+:: do more drugs {"position":"0,3265","size":"100,100"}
+you do more drugs.
+these drugs were extremely strong
+you feel yourself floating along the way, coasting through life.
+every day the sickness saps away more and more of your youth
+you can feel your arms burning
+you can feel your brain melting
+until one day, you can't feel anything at all.
+[[death]]
+
+
+:: do not buy drugs {"position":"1909,2057","size":"100,100"}
+You don't buy the drugs, you tell shady harry you're good.
+He is not pleased with this. "YOU SHOULDNT HAVE ASKED THEN!!!"
+he stabs you in the gut and takes your money.
+[[death]]
+
+
+:: do not eat it {"position":"1238,4182","size":"100,100"}
+"Why aren't you eating your delcious food?" she asks, concearned.
+"Oh um... I'm just not sure..."
+"NOT SURE?!?!?! I'll show you not sure!" she gets up and she shoves the plate of food directly in your face and breaks the glass. She takes a knife from the napkin and shoves it into your throat. Blood begins to roll out furiously as you grasp at your neck in horror.
+the waiter comes back and the girl has shifted back to her seat. she dabs her hands with a napkin. "Just the check please, oh and throw this one out back with the others." she winks at you. 
+The waiter grabs you and leads you out to the back. 
+the back room is a horrifying display of gore. I won't even describe it to you except to say that you weren't the first and you certainly won't be the last.
+the waiter shoves you onto a nearbye pile and leaves. 
+the last thing you see is a maggot crawling out of the mouth of the person next to you.
+[[death]]
+
+
+:: do not eat the meat {"position":"1628,4700","size":"100,100"}
+"I WONT DO IT!!!"
+you twitch in your chair.
+she shakes her head at you. "tsk tsk fool..." then she grabs the plate and cracks it on your head. She uses the plate shards to stab your throat.
+you bleed out on the table
+[[death]]
+
+
+:: do not talk to shady harry {"position":"1984,1907","size":"100,100"}
+you decide to not talk to shady harry, your past this life, you need to get a move on. You're on a better path now.
+"Aww man don't snub me"
+[[talk to shady harry]]
+[[keep walking]]
+
+
+:: do some of the shot {"position":"576,2240","size":"100,100"}
+you don't want to risk dying today, maybe it's time to change your life, maybe you should go out and explore... but first its time to be high for a while.
+...
+...
+you dance with angels
+"its not your time yet..."
+you come back to earth, awake and alive, this is a great day!
+[[change your life]] 
+[[stay on the street]]
+
+
+:: do the whole shot {"position":"696,2184","size":"100,100"}
+you shake your head and push the plunger down.
+your eyes close 
+nothing greets you but the familiar silence of darkness
+you feel yourself fading away, feeling earth grow ever more distant
+but nothing warm is there to greet you, you feel like you can hear someone laughing in the distance.
+maybe you shouldn't have wasted your time so callously.
+[[death]]
+
+
+:: don't eat it {"position":"1344,3903","size":"100,100"}
+it smells a bit weird so you don't eat the food 
+she keeps looking at you akwardly wondering why you haven't eaten the food
+"i'm just full from earlier..." you say
+"IM-POSSIBLE!!!!" she screams at you, smacking your face. "HOW COULD a street rat such as yourself, possibly be full???? EAT IT!"
+she looks at you with crazy eyes
+[[eat the food]]
+[[DONT DO IT]]
+
+
+:: dont do drugs {"position":"163,2985","size":"100,100"}
+"wow what a square. I see how it is."
+he walks away and you sigh in relief.
+you won't have any track marks today your making a new life for yourself.
+you get bullied a lot in prison, people try to make you their bitch more often, you seem to keep dropping the soap in the shower...
+but you make it through! you have no life threatening diseases, life is looking up!
+your finally on the outside looking at the nice grass in front of you. It's so green and soft.
+[[change your life]]
+[[stay a drug addict]] 
+
+
+:: drop her on her ass {"position":"481,2812","size":"100,100"}
+you drop her on her ass and the bone makes a snapping sound.
+"Oh that hurts!" she whines out.
+[[call 9-1-1]]
+[[ignore her]]
+
+
+:: drugs {"position":"13,2985","size":"100,100"}
+you take the drugs and sneak back to your cell.
+you get ready to shoot up the drugs and you find a syringe.
+you take the syringe and inject the heroin into your blood stream.
+cool relief melts over you, //this was so worth it// you think.
+but you're wrong.
+I bet you think you overdose but no. 
+from the needle you get a rare case of hepetitis that the doctors don't catch.
+this causes you to die a very slow and painful death with each day feeling like a knife stabbing you deep in your bones.
+hope the high was worth the fall, turns out theyre not so different after all
+its in our darkest times when we are excited most by the prospect of change even when that change is misguided.
+[[do more drugs]]
+[[pray to the good lords of the underworld]]
+
+
+:: eat it {"position":"1085,4173","size":"100,100"}
+you swallow your pride along with your first bite. She jumps up and down in her seat joyously.
+it tastes like death but you choke it down.
+when you finish the meal she asks "do you want to finish this meal off back at my appartment?"
+[[wisk her off to the appartment]] 
+[[go home]]
+
+
+:: eat the burrito {"position":"1179,3718","size":"100,100"}
+you eat the burrito as the woman smiles. that's weird, why is she smiling, she must really like burritos.
+you walk through the park after the burrito, laughing as she talks at you, because obviously street rats can't talk
+"Man you're so fun I almost feel bad I poisoned your burrito." the woman says and laughs. 
+you look at her in shock, then you hit the floor and light surrounds you.
+[[death]]
+
+
+:: eat the food {"position":"1531,3896","size":"100,100"}
+you decide to eat the food, what harm could it be?
+she sits down and watches you eat.
+after you've finished your plate you go back to the tv and turn something on.
+something feels weird though, the room seems to be spinning.
+"umm i don't feel so good." you mutter out. There's something familiar to this, it reminds you of all those times you sat in your house alone...
+"did you drug my food?"
+"I just thought you might like to be high, I saw those track marks down your arms" she points at them.
+"yeah but you don't eat it! call 9-1-1!"
+"hmmmm yeah I'd rather not, you see I think i'd get in trouble if I did that so.... ummmmm..."
+then you hear a WHAM noise and the lights go out.
+[[death]]
+
+
+:: eat the meat {"position":"1477,4700","size":"100,100"}
+you begrudgingly eat the meat from the plate. you don't want to describe what it tastes like, its nasty.
+"now, was that so hard?"
+you look at her in disgust.
+"so now human, I'll give you another choice. Because I have enjoyed your refusal to succumb to death naturally, I will allow you the oppertunity to become a waiter at my restaurant and serve people my food. if you chose this option then I will still offer to take you upstairs. what do you want?"
+[[id rather die.]]
+[[I'll take the job]]
+
+
+:: eat the weird meat. {"position":"1672,4552","size":"100,100"}
+you don't ask questions, you don't want to know. You swallow the meat with out second thought. It tastes weird and makes you want to throw up.
+she smiles at you.
+"So are you going to tell anyone about this or are you going to come back upstairs with me like a good person."
+[[tell someone]]
+[[follow her upstairs]]
+
+
+:: eww god no {"position":"1792,4503","size":"100,100"}
+"why wouldn't you want to eat the meat? what's it ever done to you?" she asks you confused. you glare at the pile
+"I don't know, it just looked at me funny, im not interested in it." 
+"well you really should eat it, I mean clearly I have the upper hand what with you being taped to this chair and all."
+[[eat the meat]]
+[[do not eat the meat]]
+
+
+:: fight the tie {"position":"2350,2047","size":"100,100"}
+you fought the tie and lost, you end up strangled in your closet.
+people who find you might mis-judge this as a suicide but you just genuinely wanted to beat that tie.
+that is... if they find you.
+[[death]]
+
+
+:: find the ring {"position":"219,1921","size":"100,100"}
+you decide to go find the ring
+you think you pawned it to one of the shops around the corner.
+you go downstairs and out the door
+you walk into the pawn shop and approach the counter.
+"How can I help you?" the fat man says behind the counter.
+[[did I sell a ring?]]
+[[leave]]
+
+
+:: fireman {"position":"2028,2957","size":"100,100"}
+(if:(history: where it is "programmer")'s length is 1)[you take back what you said about firemen being greasy]
+"firemen are extremely sexy." you say and wiggle your eyebrows. The man is pure muscle, six feet tall and has abs all the way through to china.
+your eyes widen in excitement, his bio says. "id like to put out your fire with my hose" you cringe a little but its ok, when you're that hot you get to be stupid
+or maybe you shouldnt, maybe I've presumed wrong.
+[[go on a date with the fire man]]
+[[programmer]]
+(if:(history: where it is "programmer")'s length >= 1)[[give up on men]]
+
+
+:: follow her upstairs {"position":"1627,5000","size":"100,100"}
+you follow her back up the stairs. 
+she takes you into the bedroom
+she points to the bed.
+"do you want to?"
+she looks at you deviously
+[[do it]]
+[[run away]]
+
+
+:: for years {"position":"1961,1518","size":"100,100"}
+[[and years]]
+
+
+
+:: fox {"position":"896,3103","size":"100,100"}
+a fake and big breasted blond woman stares blankly at the screen.
+"Oh my god john I swearrrrr thats what he said, i heard it he said "oh my god these evil people let's take away their guns" i know it, they want to take away our guns and have other people then take away our guns OH MU GOD john the guns, what will I DO??? my husband, who controls my life and all my choices and only allows me to work because I haven't had the honnor to bestow him children, owns like 7 tanks and ar-15s already!! and they would take them all???? OH MY GOD!!! how will my husband compensate for his inverted penis if they take his guns!?"
+suddenly her ear piece chirps. she scratches at it and it chirps again. "AHHH THE ELVES IN MY EAR ARE TALKING TO ME AGAIN!!!!" she screams as she begins thrashing about. suddenly you hear
+"No karen, we just have a new incoming story." 
+"WHAT??? Facts???? EWWW get them away, we are a fear based program I'll have you know!"
+"we have a story coming in" the man off stage says
+"is it a clip?"
+"I guess so?" he says, sarcastic tones overwhelming his voice.
+"Oh great, I'll just talk over it with a bunch of nonsense so it will be like i am sharring the facts to support my argument but then I talk over them so much you can't actually hear what they are."
+the man walks on stage and flicks karen out of the chair.
+he sits in the seat and the story flickers in the corner of the screen.
+he points to the woman "She is a serial killer"
+then he points to the person also in the photo "we believe they are a victim"
+"IF you see either of these people or are either of these people, please call 9-1-1."
+[[yeah that's me]]
+[[no, must be someone else]]
+
+
+:: get a job {"position":"1325,1606","size":"100,100"}
+'Rehabs for suckers,' you think to yourself, you can stop any time you want. 
+you walk to the front step of your house and get the paper. There are job listings posted.
+[[work in fast food]]
+[[work at an office]]
+
+
+:: get an app {"position":"2179,2657","size":"100,100"}
+you decide to try a dating app. they start out by asking you your preference.
+[[i like men]]
+[[i like women]]
+
+
+:: get buritos instead {"position":"1191,3598","size":"100,100"}
+"We should just get burritos, this place is a hole."
+"HOW DARE YOU JUDGE MY RESTRAUNT?!!?!?!" but she calms down.
+"Fine, we can go get burritos... unless..." she smiles.
+[[burritos]]
+[[go in...]]
+
+
+:: give me a choice {"position":"1879,3707","size":"100,100"}
+fine, you want a choice?
+[[go to his house]]
+[[ok ill say no]]
+
+
+:: give up on men {"position":"2119,3110","size":"100,100"}
+"Men are the worst!"
+[[try women]]
+[[go home]]
+
+
+:: go back inside {"position":"1909,2957","size":"100,100"}
+you go back inside but its closing time. this was a very unsuccessful trip.
+you should probably get some real work done.
+[[clean your house]] 	
+
+
+:: go home {"position":"542,2074","size":"100,100"}
+your at home and your trip was very unsuccessful. I hope you are happy with yourself.
+[[change your life]]
+[[do another shot]] 
+
+
+:: go in... {"position":"943,3570","size":"100,100"}
+you hold your breath and go into the restraunt. 
+On the inside its much nicer than outside, there are waterfalls and places to sit, it's very beautiful to look at.
+you sit down at your table.
+"oh darling I must order for you, I know what you'd like"
+[[but we just met]]
+[[of course, you know best]]
+
+
+:: go on a date {"position":"2104,2507","size":"100,100"}
+you're ready to get back out there! its been too long since the last time you tried really living, plus you don't want to work at an office clearly. 
+[[go to the bar]]
+[[get an app]]
+
+
+:: go on a date with the fire man {"position":"1954,3107","size":"100,100"}
+you go to the restraunt but the fire man stands you up.
+[[work at an office]] 
+[[give up on men]] 
+[[programmer]]
+[[i dont believe you]]
+
+
+:: go on a date with the lady {"position":"2650,3008","size":"100,100"}
+she continues to talk all night about all her craziness.
+[[go on another date]]
+[[talk to shady harry]] 
+
+
+:: go on a date with the programmer {"position":"2299,3102","size":"100,100"}
+you try going on a date with the programmer, he shows up 45 minutes early and spends the whole time talking about minecraft red stone mechanics.
+"You see you can use a repeater as a single extender, thats why you can use the pistons to break the signal and then repeat the signal when the charge comes back around creating a redstone clock of sorts. This can be especially effective if your making a tnt blast chamber and you dont want the tnt to be released too early from the tnt duper. 
+"Then you have to use a redstone piston feed tape to take the created concrete blocks through the machine and into the blast chamber. It is important not to get it messed up because the push limit on blocks is 12 and once that is exceeded then you will blow out the machinery.
+"Also make sure to get a villager trading farm as it is the most lucrative way to get emeralds and other items, though you do get xp it is not as effective as a gaurdian farm or an enderman farm."
+[[JESUS SHUT UP]]
+[[how fascinating!]]
+
+
+:: go on another date {"position":"2650,3159","size":"100,100"}
+you go on another date because apparently you like crazy.
+she manipulates you and tells you to drive her around and wait in the parking lot.
+you spend all day taking her to "hang out with her friends"
+[[continue to date her]]
+or are you so frustrated that
+[[i like men]]
+at this point
+
+
+
+:: go to his house {"position":"1839,3893","size":"100,100"}
+you go to his house even though I told you not to.
+He takes you gingerly up into the bedroom and you have passionate... chess watching... HA! you thought I was going to say love you fool.
+then he has rough sex with you and finishes in 30 seconds.
+you feel unsatisfied so you go home but you still don't feel clean.
+[[clean your house]]
+[[go home]]
+
+
+:: go to rehab {"position":"1480,1588","size":"100,100"}
+you want to be clean first before you start working.
+you check yourself into rehab, it's really expenssive but it'll be worth it.
+you work really hard at all the steps, you paint a bunch of pictures make a bunch of vases and talk about your feelings.
+finally, they let you free.
+[[work at an office]] 
+[[meander]]
+
+
+:: go to the bar {"position":"2029,2657","size":"100,100"}
+you try going to the bar to meet people.
+you sit at the stool but no one buys you a drink.
+a seedy man approaches you, he smells like feces.
+he tells you he'll give you five dollars to meet him out back.
+[[meet him out back]]
+[[ignore him]]
+
+
+:: go to war {"position":"1563,1729","size":"100,100"}
+"WAR!!!!" you scream out. "AND NEVER BACK DOWN!!!"
+you and the racoons charge the streets.
+heads are ripped off and thrown aside, people relish in pain. The gun toters whip out their aks in justification and are still blown away by the onslaught of racoons. 
+The world becomes swept over with man on racoon violence until finally the president asks to meet with you.
+[[meet for peace]]
+[[TAKE NO PRISONERS!!]]
+
+
+:: go to work {"position":"2179,2088","size":"100,100"}
+you go to work again but you probably will need a change of pace soon before you go bannanas.
+[[keep working again]]
+[[clean your house]]
+
+
+:: good thing im a woman! {"position":"358,3579","size":"100,100"}
+//a woman??? what are you doing in a male prison then?? you should talk to someone about that, you really shouldn't be here...//
+"yeah its a whole thing, they must have put me here on accident or something, I don't think the judge really cared about my case too much and I think he signed the wrong paperwork.
+//oh, well that sucks... im sorry they didn't care//
+"yup, story of my life..."
+//well now you're going to make me feel bad for killing you//
+"do what you have to do man, don't feel bad, I understand"
+//thank you, my boss would have my head otherwise.//
+[[death]]
+
+
+:: grab her purse {"position":"375,2537","size":"100,100"}
+you go for her purse to grab it and she yanks it away cackling at you.
+"Darling how adorable are you, trying to take my money... how can I spend all this money on my charities and parties if the likes of you, lazy that you are, keep trying to take it from me. Oh deary no. You truly must have been hit on the head too often as a child to be so foolish."
+[[stab her]]
+[[spit at her]]
+
+
+:: grab the ring {"position":"0,2347","size":"100,100"}
+you've grabbed the ring and left the store. Now you have it, what do you want now? you still feel empty, they're still gone. they're never coming back...
+you sit on the pavement with your head in your hands. what do you do now? you are totally alone... 
+[[change your life]]
+[[do another shot]]
+
+
+:: have a fight {"position":"868,599","size":"100,100"}
+"I swear to god shut up about it! you look at people all the time and you don't see me busting your chops about it!"
+"yeah but I'm not trying to get something on the side!" they say infuriated
+"well how do you know I am?"
+"call it a good persons instinct."
+"fine what ever, you have the best persons insight. Can we just go home? i'd honestly rather die than be in this car with you."
+"Fine shit ball, lets go home. I'm tired."
+[[me to]]
+
+
+:: hear the speech {"position":"2282,1645","size":"100,100"}
+"We don't take lightly to the loss of our deputy but we will not kill others in her place. there has been too much war and we want to offer you a peaceful meritocracy where people can live and die by their own sword. No longer can you blame un-changeable characteristics for your failure. In this world we should be able to succeed or fail regardless if we are a human or a racoon but rather based on how we act and treat others, how hard and efficiently we work.
+"that's why we will no longer have any social programs that reward laziness, we wish to give power back to the people and away from the government. You make your own way now, the best insentive to get off the streets is to make life on the streets terrible."
+"so you have all got to swear away your current system that rewards laziness, you have to swear away the oxymorons of socialist libraterians (which should just be called the choclate milk in the water fountain party). You must join us and the racoons for a better life!"
+[[change the world]] 
+
+
+:: how fascinating! {"position":"2374,3252","size":"100,100"}
+you stare dreamily at the sweet nerd accross the table discussing all manners of zombie tracking and spawning mechanics.
+"You see you can get mods that will precisely track the spawning radius of such a mob, why of course you would ever build a zombie specific farm is mostly beyond me, other than of course the most obvious reason of early game stumbling upon a zombie spawner in a dungeon."
+you smile and nod and then add, "the most useful mob specific farm is obviously a wither skeleton farm, though recently the mechanics have shifted drastically and now you can just find a cross roads in a nether fortress and get all your skulls in under an hour. I remeber back in 1.14 when you had to hunt a fortress for hours, destroying all blocks within the nether spawning radius to decrease false spawning attempts on non-spawnable blocks."
+the nerd reaches accross the table and places a hand upon yours, "never in my life have I met another person who cared so much about minecraft mob spawn mechanics."
+he comes accross the table and lifts you up and carries you out the door throwing cash on the table.
+[[jump out of his arms]]
+[[stay in his arms]]
+
+
+:: i dont believe you {"position":"1954,3257","size":"100,100"}
+Oh come on, do you not know how many choices I've made for you??? I've bandersnatched myself! the chart of options is so extenssive it looks more complex then joe bidens neural pathways.
+[[stop being lazy.]]
+
+
+:: i like men {"position":"2104,2807","size":"100,100"}
+you sign up to date men
+you begin swiping on the app, you see two that spark your intrests
+[[fireman]]
+[[programmer]]
+
+
+:: i like women {"position":"2387,2708","size":"100,100"}
+there is strangely only one woman on the app, its almost as if she bought up all the space and is locking your phone for some reason, perhaps it is the lazy god-writter who is spinning your fate's doing. Who can say.
+[[I guess ill take the crazy lady?]]
+
+
+:: i would love to try it {"position":"1943,4480","size":"100,100"}
+you loved eating that meat, even though it was sus as hell and tasted like gym shorts... wait that came out wrong... I mean like moldy nasty cheese, get your mind out of the gutter.
+"ok since you listened I'll give you a choice, do you want to die or get a job?"
+[[id rather die.]] 
+[[I'll take the job]] 
+
+
+:: id rather die. {"position":"1402,4850","size":"100,100"}
+"suit yourself, fool."
+she stabs you in the other eye and the world goes black.
+[[death]]
+
+
+:: ifunny {"position":"1375,3597","size":"100,100"}
+you're just looking at memes.
+[[you're on ifunny]]
+[[something else]]
+
+
+:: ignore her {"position":"400,2962","size":"100,100"}
+you decide to ignore her, turns out her purse is on the ground a few feet away now. You pick up the purse on your way to leave hearing her muffled annoyed screams in the background.
+[[go home]]
+[[stay on the street]]
+
+
+:: ignore him {"position":"1807,2793","size":"100,100"}
+you attempt to ignore him but he glares at you.
+his breath like hot eggs, he begins sniffling.
+"HOW DARE YOU SNUB ME???" he smacks you harder then he means to and you fall to the ground breaking your neck.
+[[death]]
+
+
+:: ignore the good lords {"position":"433,3279","size":"100,100"}
+you think the good lords are rediculous, you must be going crazy. you can't hear voices in your head right?
+but the voices get louder, demanding a sacrifice, angry with you.
+your head is splitting on the inside
+[[kill a man]]
+[[continue to ignore the gods]]
+
+
+:: im a girly girl too {"position":"1168,4480","size":"100,100"}
+"BAH. if you're a girly girl then im elvis. Stop trying to have independence. If you're with me then IM your dependence and you won't be doing anything unless I SAY so. I'm rich and I get what I want and get away with what I want. Now shut up and let me speak.
+[[nothing]]
+[[I'm leaving]] 
+
+
+:: im a woman too {"position":"1280,4323","size":"100,100"}
+"Well yes of course I know you're a woman too but it's different, you're the "man" woman if you catch my drift. You're not the epic girly girl like me and as such, I demand to be treated as a princess and you can be the nothing little shit you are. I cannot believe I've had to sit here and even have you attempt to one up me woman style."
+[[im a girly girl too]]
+[[I'm leaving]]
+
+
+:: im not interested {"position":"1296,2056","size":"100,100"}
+"Thanks but I dont think this job is for me..." 
+you walk away from the lady and back out the door
+she looks at you and frowns to herself.
+"well there goes another one... guess we'll just stay understaffed..."
+[[go home]]
+[[try the office]] 
+
+
+:: im ready to die {"position":"583,3878","size":"100,100"}
+//its too bad you chose death... kind of depressing too. Well we shall honor your wish.//
+the light surrounds you and everything fades away.
+[[death]]
+
+
+:: instagram {"position":"1674,3473","size":"100,100"}
+you've been looking at funny videos and cats, you also were checking in on highschool friends.
+[[you're on instagram]]
+[[something else]]
+
+
+:: is it human meat? {"position":"1552,4550","size":"100,100"}
+"OF COURSE IT IS" she laughs and wails and then she looks you dead in the eye. "Eat it or don't bitch, it doesn't matter what you chose at this point. your dead anyway."
+and somehow you didn't doubt her.
+[[eat the meat]]
+[[do not eat the meat]]
+
+
+:: jump out of his arms {"position":"2344,3402","size":"100,100"}
+you decide to be a fool and jump out of his arms because you're affraid of commitment or something.
+Unfortunately for you I am in no mood to bandersnatch and this was a horrible desicion.
+you fall out of his arms and hit your head on the concrete dying instantly.
+[[death]]
+
+
+:: just keep driving {"position":"748,599","size":"100,100"}
+"Come on honey, let's just get home." you say to them, patting them on the shoulder. 
+"I promise it didn't mean anything, let's just leave, our daughter is tired."
+"ok... let's talk about this another time then. I want to go home."
+[[me to]]
+
+
+:: keep walking {"position":"2029,2057","size":"100,100"}
+you keep walking, turning your head to the ground.
+wow, you were able to abstain from temptation so easily! you might make it after all!
+you bounce up and down excitedly, you made it.
+you walk to the edge of the corner and look back at the rehab center. You survived. what do you do now?
+[[work at an office]] 
+[[clean your house]]
+
+
+:: keep working {"position":"2104,1938","size":"100,100"}
+you keep working. You wanted to change your life after all.
+the tie in the closet is seducing you.
+[[fight the tie]]
+[[go to work]]
+
+
+:: keep working again {"position":"2329,2217","size":"100,100"}
+nope, you aren't going to clean your house, you aren't going to go meet people.
+work
+sleep
+work 
+sleep
+your old now, how supprising that you've made it this long.
+work
+sleep
+work
+sleep
+work...
+until one day you go to sleep and don't wake up again.
+[[death]]
+
+
+:: kill a man {"position":"227,3280","size":"100,100"}
+you go into your room and grab the rest of your contraband drugs. You need to kill the man and not be traced, you need to make it look like an over dose. you crumble a large portion of drug x into drug y and walk into the court yard. You find the most gullible person in the prison yard and approach them.
+"Heyo, whats up my man?" he asks you, you hold up the bag and he winks at you.
+"of course ill take that off your hands for you."
+he takes the drugs and disapears. 
+later you walk past his cell and see the medical squad there.
+you hear whispers in your ear.
+[[the good lords save all who praise them]]
+
+
+:: king of the racoons {"position":"1638,1579","size":"100,100"}
+you spend several days hiding in dumpsters before finding them, a huge conglomeration of racoons nibbling at the ancient garbage. you sit next to them and eat the garbage too.
+you spend the next several years learning how to be exactly like a racoon, getting closer and closer to them, until finally the trash pandas make you their king!
+you now control all trash pandas!
+you teach them to talk and wear clothes, to make cars and planes and trains
+little by little they use their numbers to take over human jobs and human positions.
+you taught them with a strong work ethic and they actually care about making a difference and making something unique and beautiful
+they take over more and more jobs, politicians running for the hills
+until eventually someone assasinates your beautiful racoon bride/groom
+[[go to war]]
+[[change the world]]
+
+
+:: kiss the demon {"position":"432,3878","size":"100,100"}
+you grab at the shadow and thrust your lips upon it
+//AHHHHHHHH HOW DARE YOU KISS THE LIPS OF THE ANCIENT DEMON LORD OF PAIN!!!!! I SHALL SHOW YOU A DEATH BEFIT A CRIMINAL SUCH AS YOURSELF!//
+they drag you down into the underworld with them.
+//a fate worse then death, you will now be stuck eating dinner with my PARENTS for the rest of eternity.//
+you sit across from two other demon shadows.
+//so tell us, what are your opinions so we can mercilessly tear them apart and laugh at how much of a failure you are and snicker about how wrong you are for our little demon specimen.//
+[[NOOOOOOOOOOOOOOOO]]
+
+
+:: leave {"position":"294,2071","size":"100,100"}
+[[go home]]
+[[stay on the street]]
+
+
+:: let her continue {"position":"1762,4352","size":"100,100"}
+"ok so theres a plate in front of you darling, my latest recipe, would you like to try it?"
+[[i would love to try it]]
+[[eww god no]]
+
+
+:: look over to the hallway {"position":"1044,3425","size":"100,100"}
+She comes charging at you when she sees the phone in your hand. Cold sweat you struggle to get the words out "I wasn't doing anything!" you try to scream but its no use. the knife comes hurtling through the air.
+you put up a hand to block it but it goes through the hand and into your head.
+[[death]]
+
+
+:: look up at the celling {"position":"1472,2355","size":"100,100"}
+the growling gets louder and louder, cracks appear in the celling
+you only have time to scream out before you are soaked with scalding fry oil!
+you can't move
+you are rushed to the ER but theres too much damage and they're unable to save you.
+you fried alive
+[[death]]
+
+
+:: me to {"position":"580,872","size":"100,100"}
+you drive along the road again.
+it's a long and narrow road with no lights
+suddenly out of no where the person nexts to you calls out something profane and light flashes in front of everyones eyes.
+[[uh oh]]
+
+
+:: meander {"position":"1909,1757","size":"100,100"}
+you're finally out, you don't know what to do, you don't know how to act without drugs. In there it was all safe cause you couldnt have done drugs anyway, but now... now you're out in the open, drugs can be anywhere or everywhere
+you gaze about shiftily.
+you find yourself walking around the streets until you see shady harry.
+[[talk to shady harry]]
+[[do not talk to shady harry]]
+
+
+:: meet for peace {"position":"1488,1879","size":"100,100"}
+theres been too much blood, you meet with the president.
+"Good to meet with you sir, please call off your racoons in the name of peace?"
+"what will you give me for peace?" you ask, cloaked in your racoon followers, their eyes stairing beedily at the president as he slinks back.
+"I will abdicate my seat for you..." the decrepit old man stutters... I mean president. 
+"Fine, but i demand that you also be sentenced to exile!" 
+he nods his head solomnly.
+"In the name of peace, I will." he says shakily.
+you kick him out of the country and racoons rule supreme!
+unfortunately there is a rabis outbreak that takes hold of the country.
+You plead with your fellow man to stay inside and stay safe from the rabis.
+being that they are muricans they completely ignore you and all get rabis and perish quickly. You and the racoons are the only ones left now.
+sadly your deputy stabs your ass and says "you shall not have to suffer in a world without your own kind, this is he greatest honnor I can give you."
+you nodd your head and perish.
+[[death]]
+
+
+:: meet him out back {"position":"1954,2807","size":"100,100"}
+you decide to meet him out back, seems suspicious but what are you going to do? you want to be nice.
+he breaks down in tears in the alley way. "OHHhhhhhh my wife left me for another woman!!!!" he begins shreaking out through his tears. "I will pay you 5$ to let me vent about it."
+you nodd your head.
+two hours later he is still crying slimey tears on you. finally the man thanks you and says "Someday god will rewards your kindness."
+[[go back inside]]
+
+
+:: msnbc {"position":"1060,3106","size":"100,100"}
+the tv turns to the channel with a fizzle. an angry lady sits in the middle of her staged counter. "Ok fellow americans, let me break this down for you. Russia is hacking your computers, they are. These russians they think we're oh so stupid and can't tell that they've hacked our information, but we are getting smarter. We have put new anti-hacking technology onto all of our new devices, but you know I don't trust those programmers, they seemed to be in connection to russia."
+"Also we wanted to introduce the latest and greatest in our segment 'the oxymoron logic' where we talk about problems and offer no solutions, we break it down and make your children build it back."
+"my favorite example has got to be with socialism. those idiot white right-wingers always say 'oh, its been tried before and failed every time, it just makes everyone progressively poor and lazy' to which I say, WRONG! its been tried wrong every time and surely this time and with our incredibly selfless population who has demonstrated their ability to successfully follow and not rebel against basic quarenteen rules, could surely sustain a system of government based purely off of altruism."
+"I'm getting something, we have breaking news!"
+on the corner of the screen a persons face appears. "This person has been reported missing in the streets after early this morning when he was seen escorting a young woman away. Who can tell exactly what is in store for this person. This woman..."
+close up on the womans face. 
+"has been reported to be in the presence of at least 5 other men who were shortly after reported missing."
+"it appears that she has been leading these people somewhere and then they are never heard from again. If you are this person, PLEASE CONTACT THE AUTHORITIES IMMEDIATELY"
+does that person look like you?
+[[yeah that's me]]
+[[no, must be someone else]]
+
+
+:: nah, your not my type {"position":"807,3236","size":"100,100"}
+"oh... that's too bad." she looks down at her feet. "For the best though, I mean I am rather wealthy and high up, much to high for a street rat like yourself." she chuckles to herself.
+the ambulance comes and picks her up, you don't get on it with her.
+you stand alone on the street like you always are.
+[[go home]]
+[[stay on the street]]
+
+
+:: no, im leaving {"position":"1111,2983","size":"100,100"}
+you laugh at the woman
+"God you are sooooo annoying, why would I stay here with you when I could be literally anywhere else."
+you turn away and get ready to leave. Was this the push you needed to change your life?
+[[change your life]]
+[[stay a drug addict]] 
+
+
+:: no, must be someone else {"position":"1138,3277","size":"100,100"}
+"pfft" you say looking at the screen "what a bunch of biased bull crap. No wonder they say news is just pure entertainment at this point"
+you flip off the tv and thumb through your phone.
+"what are you doing?" you hear from the hallway.
+you look up and shes holding a knife in her hands. That's odd...
+[[why are you holding a knife?]]
+
+
+:: not for me {"position":"1176,1906","size":"100,100"}
+you shake your head rapidly and leave the establishment.
+[[go home]]
+[[go to rehab]]
+[[try the office]]
+
+
+
+:: nothing {"position":"1160,4023","size":"100,100"}
+you say nothing and she jumps right in.
+"I would love to discuss the long and arguous journey of my past. It all began with..."
+you begin nodding off a bit.
+your eyes open back up when the food arrives. It looks exactly as it sounds.
+[[eat it]]
+[[do not eat it]]
+
+
+:: of course, you know best {"position":"1011,3723","size":"100,100"}
+"I would love to order for you." she picks up the menu and looks at all the options available. then the waiter comes by. 
+"We'll have two orders of the squidass please." she smiles up at him and hands back the menus.
+she looks expectantly at you with a wide smile on her face.
+[[why would i want squid ass?]]
+[[thank you so much for ordering]]
+
+
+:: oh god please don't murder me! {"position":"508,3579","size":"100,100"}
+//too bad fool!// 
+//our boss cares not for the needs of mortal scum, if I were to spare you then I myself might have to die in your stead!//
+[[seduce the demon]]
+[[succumb to fate]]
+
+
+:: ok {"position":"602,1628","size":"100,100"}
+you spend the next 3 years selling off your earthly posessions and being an alcoholic drug attic in a solo apartment off Den street. 
+[[stay a drug addict]]
+[[change your life]]
+
+
+:: ok ill say no {"position":"2029,3707","size":"100,100"}
+THANK you for listening to me. You go back home after thanking him for the evening.
+get some more chores done
+[[clean your house]] 
+[[go home]]
+
+
+:: pray to the good lords of the underworld {"position":"236,3125","size":"100,100"}
+the good lords have heard your prayers but they are an angry and cruel beast. for your life they demand a sacrifice, what will you do?
+[[kill a man]]
+[[ignore the good lords]]
+
+
+:: prison {"position":"88,2835","size":"100,100"}
+your in prison. You might not actually die today, you think foolishly.
+you go to the cafeteria for lunch and a man approaches you. "ill give you a gram if you join my squad." he says
+[[drugs]]
+[[dont do drugs]]
+
+
+:: programmer {"position":"2225,2969","size":"100,100"}
+"yuck, greesy firemen, I like me some pocket squares." you say aloud, to no one in particular.
+you look at the programmers profile, they are smart, well educated, and have glasses the thickness of a wind tunnel. 
+they also are short and their profile is hillarious. You chuckle to yourself as you read it.
+"dating makes as much sense to me as debugging a line of code. You keep looking at it trying to figure out whats wrong until you realize that it's the type."
+or maybe you don't laugh because its not funny and you don't get it and i shouldnt have assumed.
+[[go on a date with the programmer]]
+[[fireman]]
+(if:(history: where it is "fireman")'s length >= 1)[[give up on men]]
+
+
+:: put down the knife {"position":"8,2713","size":"100,100"}
+you put down the knife at your feet. The cop closest too you comes up to you and puts your hands in cuffs.
+they take you away in a squad car.
+you arrive at the police station.
+the cop tells you that you can go change your life in rehab or go to prison.
+[[change your life]]
+[[prison]]
+
+
+:: resist arrest {"position":"238,2685","size":"100,100"}
+you look for an opening and try to charge through. Unfortunately the cop closest to you thinks your making a play to stab him. His gun goes off 3 times into your chest. You fall backwards onto the ground, blood pooling around you.
+so this is how it ends...
+you don't know whats next but fear envelopes you as your eyes close.
+[[death]]
+
+
+:: run away {"position":"1702,5149","size":"100,100"}
+you bolt back down the stairs and out the door. You've forgotten your phone but you'll live.
+god could you ever go lower than this?
+[[change your life]]
+[[go home]]
+[[stay on the street]]
+
+
+:: scream at god {"position":"1954,2507","size":"100,100"}
+no one screams back at you and you are still totally alone.
+can you even pick yourself up at this point?
+[[be a human]]
+[[work at an office]] 
+[[
+
+
+:: seduce the demon {"position":"433,3728","size":"100,100"}
+"hey now pretty... um... demon shadow, no need to look so angry. I know a few tricks myself." you wink at the demon shadow and pull a card packet out of your pocket. Of course the best way to impress people is with card tricks and so you try it.
+The demon burns all your cards un-impressed.
+//you idiot scum, I don't care for your frivolous card tricks, I only want to get my job out of the way so I can go on lunch//
+[[kiss the demon]]
+[[succumb to fate]]
+
+
+:: shut up and do the shot {"position":"427,2062","size":"100,100"}
+you do the shot. what else is there to do anyway? its too late in your life for you to change. who cares anyway?
+you are completely and totally alone. Would anyone miss you if you left anyway?
+would there be anyone to miss you if you were gone?
+would your spouse and child be there if you died?
+would you see them again?
+(if:(history: where it is "yeah what of it")'s length is 1)[would they have forgiven you for that fight you had?]
+oh well. might as well see right? maybe the shot won't kill you anyway.
+[[do some of the shot]]
+[[do the whole shot]]
+
+
+:: something {"position":"1280,4023","size":"100,100"}
+"Well so I'm actually a..."
+"Oh really?? you just met me and you want to talk about yourself? ahhhh I see how it is, your selfish, you're reaaaaly selfish. It's all about me, me, me" with you. Ok I get it. Fine talk about yourself then.
+[[nothing]]
+[[talk about self]]
+
+
+:: something else {"position":"1450,3747","size":"100,100"}
+"YOU LYING SCUM BAG!!!" she screams at you, she leaps across the room and grabs your phone.
+"YOU LIAR, I CANT BELIEVE YOU LIED!!!!" her voice gets quiet and creepy "Good people don't lie."
+she smashes your phone
+she stabs you in the temporal lobe
+[[death]]
+
+
+:: sounds great! {"position":"1472,2055","size":"100,100"}
+"I would love to work here!"
+the woman clasps her hands together excitedly.
+"Im so excited!" she cries out.
+you work that day on the frier machine making french fries. 
+theres no one else working in the restraunt
+[[thats odd...]]
+
+
+:: spit at her {"position":"550,2666","size":"100,100"}
+you spit at her face and she reals back in shock. She glares and then smacks you across the face.
+"HOW DARE YOU?!?!?!" she screams at you.
+then she leaps at you and jumps into your arms
+"Oh how terrible are you, you bad and dastardly fiend..."
+she winks at you and smacks her lips
+"what are you waiting for? Carry me back to my apartment!"
+[[drop her on her ass]]
+[[wisk her off to the appartment]]
+
+
+:: stab her {"position":"163,2535","size":"100,100"}
+you plunge your blade into her stomach and she screams out. In shock you see blood pooling in your hands as she starts trying to thrash away. You grab the purse and run as fast as you can down the street
+sadly soon you hear sirens playing in the distance.
+the cops are on your tail, you can hear their footsteps echoing behind you.
+blood pounding in your ears you continue to run faster and faster until you find yourself at a dead end.
+finally you hear
+"We have you surrounded, put down the knife and give yourself up!"
+[[put down the knife]]
+[[resist arrest]]
+
+
+:: stay a drug addict {"position":"339,1761","size":"100,100"}
+you keep shooting up in your house, leaving late at night to go get alcohol.
+every time you get drunk you find yourself crying over photos.
+one night you realize that you've lost your wedding ring, you must have pawned it.
+[[find the ring]]
+[[do another shot]]
+
+
+:: stay at the table {"position":"2224,3402","size":"100,100"}
+you decide to stay anyway and the rest of the date he doesnt talk. at the end, he pays the check and then thanks you for the evening. You nod your head and get ready to go home.
+at least the food was good.
+you should probably clean your house.
+[[clean your house]] 
+[[go home]]
+
+
+:: stay in his arms {"position":"2449,3402","size":"100,100"}
+you stay cuddled in his arms
+you have found true joy again, something you thought was lost since your spouse had died.
+you spend the next years in love and happy
+you dance on top of clouds and go to movies and play video games in the basement
+you work hard and make a new family and love living again
+you get married at a grand festival and everyone cheers as you walk down the isle in a gorgeous outfit.
+you have 2 children who you love very much
+you have a wonderful and smiling life until one day you two are very old, sitting on a porch together.
+you look into each others eyes and realize the true happiness each other gives you, the 90 years of blissful marriage where you only fought sometimes about stupid things.
+and in that moment you realize that even if this is your only life, even if you die and theres nothing, at least you lived brilliantly and happily, and when that day comes in the future, you won't fear it as much.
+(if:(history: where it is "king of the racoons")'s length >= 1)[unfortunately some idiot is now king of the racoons and he demands all humans head. You and your husband look lovingly into each others eyes as you are plunged to death at the same time, floating among the waves you sink holding hands, the beautiful warm surf surrounding you as the oxygen runs away. [[death]]]
+[[tonight we sleep!]]
+
+
+:: stay on the street {"position":"314,2213","size":"100,100"}
+you realize that you're hungry and probably haven't eaten in days. you see a young woman who is alone with an expensive purse.
+[[ask for money]]
+[[steal from lady]](if:visits is 2)[hang on, didn't I see this before? I think we've met before...[[didn't I already do this?]]]
+
+
+:: stay on the tour {"position":"1326,1906","size":"100,100"}
+you stay on the tour, frankly you like this kind of enthusiasm from people.
+you walk around the restraunt until they put you in the drive through window.
+"And here's where you'll be working in the future! you'll take the orders and then take their credit card. for now though, we'll start you on the frier"
+you nodd at the lady.
+"Ok. come back tommorrow and you can start work right away!"
+[[im not interested]]
+[[sounds great!]]
+
+
+:: stay till the food {"position":"1475,4473","size":"100,100"}
+"well I am somewhat interested in the food so ill stay for a bit longer, but that's it."
+"what ever" she says, rolling her eyes.
+the food arrives at the table but looks disgusting.
+[[eat it]]
+[[do not eat it]]
+
+
+:: steal from lady {"position":"238,2385","size":"100,100"}
+you put your hand in your pocket and realize you have a knife down there. You smile maliciously and then walk up to the woman.
+"Give me the money in your purse"
+she scoffs at you
+she throws the shaw over her shoulder and sticks her nose up at you.
+"Darling, if people like me cared about threats from people like you then you would be on top and we would be the petty homeless."
+[[stab her]]
+[[grab her purse]]
+
+
+:: steal from the lady {"position":"608,2546","size":"100,100"}
+well I guess im doing this... again?
+[[stab her]] 
+[[grab her purse]]
+
+
+:: stop being lazy. {"position":"1954,3407","size":"100,100"}
+NO!
+[[come on]]
+
+
+:: succumb to fate {"position":"583,3729","size":"100,100"}
+//we are eternally greatful that you are not putting up a stink about this, that would be quite annoying. we will give you one more chance to change if you want it.//
+[[kill a man]]
+[[continue to ignore the gods]] 
+[[im ready to die]]
+
+
+:: sushi {"position":"842,3416","size":"100,100"}
+"Oh my god I LOVE sushi, it is perfect for the totally refined such as myself." she says clasping her hands together. "We'll go, my treat, now wheel my chair away please"
+you wheel her chair out the door and down the street. "are we driving?" you ask her, confused.
+"Oh heavens no, it's right here!" she points to a dusty looking hole in the wall. Oh dear...
+[[go in...]]
+[[get buritos instead]]
+
+
+:: talk about self {"position":"1355,4173","size":"100,100"}
+"Ok so my name is..."
+"Really? you can't take the hint??? oh my god you are sooooo dense. This is absurd, I can't believe how stupid you are. I cannot BELIEVE you didn't get it. The woman gets to talk about herself, me I'm the woman, or did you forget???"
+[[im a woman too]]
+[[this is stupid]]
+[[nothing]]
+
+
+:: talk to shady harry {"position":"1834,1907","size":"100,100"}
+you walk up to shady harry.
+"Wanna buy some drugs kid?"
+[[buy drugs]]
+[[do not buy drugs]]
+
+
+:: tell someone {"position":"1748,4702","size":"100,100"}
+"ILL TELL SOMEONE YOU CRAZY PERSON!" you scream out. 
+"god you must be stupid, why would you tell me that?"
+she stabs your heart. you die.
+[[death]]
+
+
+:: thank you so much for ordering {"position":"1086,3873","size":"100,100"}
+she leans back smugly. "I know you will love it, don't worry its delicious I promise you." she folds and un-folds the napkin, then looks at her glass. she taps the ridge before calling the waiter over. "would it kill you to fill up my glass or would it kill me because im dying of dehydration. GO GET THE WATER OR ILL HAVE YOU FIRED" the waiter runs away hastily and she smiles at you. "soooooooo what do you want to talk about?"
+[[nothing]]
+[[something]]
+
+
+:: thats odd... {"position":"1472,2205","size":"100,100"}
+"um excuse me miss, why is no one else here?"
+"well because of course it's a slow day and we can't get enough people to work here." she hangs her head.
+you shrug and continue working.
+you hear rumbling up ahead from the celling.
+[[look up at the celling]]
+
+
+:: the good lords save all who praise them {"position":"109,3444","size":"100,100"}
+you wonder if you really had to kill him or not. guess you'll never know
+the years pass quick and before you know it you're back on the streets in society.
+[[go home]] 
+[[do another shot]]
+
+
+:: this is stupid {"position":"1430,4323","size":"100,100"}
+"This is so dumb... you are a self absorbed crazy person and you need to get a grip on your life. This is why I dropped you on your ass. You are a controlling entitled snot nosed freak of a human being."
+[[I'm leaving]]
+[[stay till the food]]
+
+
+:: tinder {"position":"1506,3544","size":"100,100"}
+you've been swiping right and left this whole time trying to find your next booty call after this one.
+[[you're on tinder]]
+[[something else]]
+
+
+:: tonight we sleep! {"position":"2449,3552","size":"100,100"}
+and when you sleep, cuddled in each others arms, the merciful angel of death comes for you and lifts you up to the heavens.
+annoyingly, now you have to explain to your previous spouse how/why you have fallen in love with another person.
+that's got to be uncomfortable...
+[[death]]
+
+
+:: try the office {"position":"1135,2053","size":"100,100"}
+you decide to give the office job a shot, how bad can it really be? at least they won't be overly enthusiastic over there.
+[[work at an office]] 
+
+
+:: try to kill her {"position":"1477,5000","size":"100,100"}
+you grab a knife from the table and try to stab her with it. she grabs your hand and stares you down.
+"You could have had it all, you absolute fool!" she cutts your throat with a hidden blade and you bleed out on the ground.
+"you could have eaten like a king but instead now you'll be eaten by a king."
+[[death]]
+
+
+:: try women {"position":"2446,2909","size":"100,100"}
+you sign up for the app again but this time you pick a different option.
+[[i like women]]
+
+
+:: uh oh {"position":"580,1022","size":"100,100"}
+you fly careening off the road and into a ditch, you can smell burning rubber all around you, then you realize the cars on fire. 
+you manage to get your right hand free and dial 9-1-1
+the whole world flashes as you finally see the familiar blue and red lights in the background
+[[whats going on?]]
+
+
+:: wait to see who the misses is {"position":"120,2347","size":"100,100"}
+you stand there and wait, you're kind of curious who it is.
+the man comes out with a double barell shot gun.
+"Fool, you could have just taken it and ran" he smiles
+"you can't shoot me, i'm not armed and I haven't taken anything."
+"yeah but how do they know that?" he smiles at you, you go to run for the door when a blasting heat rushes through you.
+"oh no..."
+you fall to the ground and hear another blast.
+darkness closes around you before you see a light shining in the darkness.
+you hear a familiar laugh surround you and you see your daughters shinning face. 
+[[death]]
+
+
+:: watch cartoons {"position":"1210,2733","size":"100,100"}
+You turn on a cartoon about a mouse trying to run a cat out of his house.
+you laugh at how rediculous this is. She comes out a bit later with two plates of food.
+[[eat the food]] 
+[[don't eat it]] 
+
+
+:: watch the news {"position":"855,2937","size":"100,100"}
+You decide that you hate yourself so you turn on the entertainment box. but which channel to watch?
+[[msnbc]]
+[[fox]]
+
+
+:: what happened? {"position":"505,1322","size":"100,100"}
+"You were in a car accident. Your car is totaled. you probably won't ever get to ride in it again. A true tragedy.
+[[and the other passengers?]]
+
+
+:: whats going on? {"position":"580,1172","size":"100,100"}
+you close your eyes and then wake up in the hospital.
+a doctor is standing over you
+[[what happened?]]
+[[where's my family?]]
+
+
+:: whats the misses gonna do? {"position":"46,2197","size":"100,100"}
+you scoff at him and he frowns at you.
+he goes in the backroom
+[[grab the ring]]
+[[wait to see who the misses is]]
+
+
+:: where's my family? {"position":"655,1322","size":"100,100"}
+"well... they umm... they didn't make it, I'm so sorry."
+you put your head in your hands and sit back.
+"is there anything I could have..."
+"no, theres nothing you could have done, they both died on impact. I'm sorry for your loss, they're at peace now at least."
+[[ok]]
+
+
+:: why are you holding a knife? {"position":"1356,3394","size":"100,100"}
+"oh this? I'm just cutting up some carrots for you, why are you holding your phone???"
+she seems angry and volitile, you're a little worried what her response will be.
+what's on your phone right now?
+[[ifunny]]
+[[instagram]]
+[[tinder]]
+
+
+:: why is it so cold in here {"position":"1550,4353","size":"100,100"}
+"um because of where we are of course." she rolls her eyes and turns on the rest of the lights. 
+bodies surround you, or at least parts of them. You appear to be in a meat freezer.
+"now will you eat from the plate in front of you or are you going to be stubborn."
+[[is it human meat?]]
+[[eat the weird meat.]]
+
+
+:: why would i want squid ass? {"position":"965,3873","size":"100,100"}
+"ARE YOU QUESTIONING MY JUDGMENT?!?!?!" she stands up, even with her broken ass bone, then she stands on her chair. she glares down at you and points.
+"YOU DARE NOT QUESTION ME! my palate is impecable! you will love this dish and you will eat it. THIS IS the end of this conversation or so help me I WILL MAKE A SCENE!"
+[[you are already making a scene]]
+[[thank you so much for ordering]]
+
+
+:: wisk her off to the appartment {"position":"843,2773","size":"100,100"}
+you shrug your shoulders and walk her back to her appartment. Why not right? it's not like you had something better to do that day.
+she opens the door with her key. "Come on in darling, let me fix you something to eat..." she smiles maliciously at you. 
+she walks into the kitchen and you sit on the sofa. "Make yourself at home" she calls out to you. 
+you flip on the tv.
+[[watch the news]]
+[[watch cartoons]]
+
+
+:: work at an office {"position":"1401,1756","size":"100,100"}
+you decide to work at the office, at least it's good pay.
+you meet some nice and friendly coworkers and now you aren't in rehab
+originally you thought you would have more choices in this career but you realize that you've already had so many choices so you're greatful for the oppertunity to just sit down at your desk and do your job.
+and you do
+[[for years]]
+
+
+:: work in fast food {"position":"1251,1756","size":"100,100"}
+you go to work as a fast food employee, it's much less brain intensive then working at a boring office. 
+you walk into the job interview and they're greatful to see you. 
+"Oh hello! I'm so glad we have a new applicant! we would love to work with you!" they shake your hand and show you around. 
+[[not for me]]
+[[stay on the tour]]
+[[go home]]
+
+
+:: yea I'll stay {"position":"733,3103","size":"100,100"}
+you sit on the curb next to her. "I'm sorry I dropped you on your ass."
+she laughs "it's ok, I get it, I was quite rude to you before, and then that change in attitude was very sudden."
+you laugh a little too
+"Hey, you want to grab something to eat sometime with me? after my butts fixed of course." She looks at you with sparkly eyes and smiles widely.
+[[I'd love to eat with you]]
+[[nah, your not my type]]
+
+
+:: yeah that's me {"position":"986,3288","size":"100,100"}
+you realize with a cold sweat on your back that the person in the photo is you.
+your hands shake as you reach for your phone and dial the numbers.
+"9-1-1 whats your emergency?"
+"ummmmm I just saw the news, I think I'm the person in the story, I'm with the woman they think is a serial killer."
+"what is your adress?"
+"I'm not sure, she led me here."
+suddenly the line goes dead.
+[[look over to the hallway]]
+
+
+:: yeah, what of it? {"position":"734,449","size":"100,100"}
+"What of it?!?!" they slam on the breaks in the middle of the road.
+"come on, don't do that, we could be hit!" your daughter starts balling in the back seat.
+"You want to 'what of it me?' you were staring at them like they were the best thing since sliced bread! you never look at me like that.'"
+the persons face falls
+[[just keep driving]]
+[[have a fight]]
+
+
+:: you are already making a scene {"position":"1040,4023","size":"100,100"}
+Double-click this passage to edit it.
+
+
+:: you're on ifunny {"position":"1299,3747","size":"100,100"}
+"Oh that's cute, find any good ones?"
+"yeah I found this really funny dog meme, he's trying to cook but he can't"
+you both laugh and she goes back to the kitchen un-phased.
+a few minutes later she comes back out with a plate of food for you to eat.
+[[eat the food]]
+[[don't eat it]]
+
+
+:: you're on instagram {"position":"1769,3644","size":"100,100"}
+"Just looking at cats and stuff."
+"really? just cats????" she asks, highly suspicious.
+"Yeah, just cats..."
+"Ok, are they cute?"
+"of course they're cute, they're cats!" you say, holding up your phone.
+"AWWWWWW" she says, putting down the knife and walking over.
+she gives you a hug. "you're so cute!"
+she goes back to the kitchen and comes back with a plate of food. 
+"Here's some food I made, just for you!"
+[[eat the food]]
+[[don't eat it]]
+
+
+:: you're on tinder {"position":"1608,3694","size":"100,100"}
+"ummmmmmmmmmmmmmmmmmmm"
+"yes?" she asks, knife still behind her.
+"im on tinder right now..."
+"oh are you..." she glares at you, she appears to have engeneered her eyes to work like daggers. "I invite you to my home, we're on a date, and you can't help yourself but look at other women. HOW dare you, HOW DARE you. I know what I'm worth god damn it!!! maybe I should show other women what you're worth."
+she pounces you and pins your wrist. she slashes your lips into a joker smile, she cutts off your nose.
+then she stabs one eye, you scream.
+"well of course, now you won't be able to see them..."
+she stabs the other eye out.
+"lastly, the heart of course."
+[[death]]
